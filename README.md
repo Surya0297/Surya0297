@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://surya0297.github.io/](https://surya0297.github.io/)
 
-- 📫 How to reach me **chauhansurya302@gmail.com**
+- 📫 How to reach me `chauhansurya302@gmail.com`
 
 - 📄 Know about my experiences [https://surya0297.github.io/](https://surya0297.github.io/)
 
