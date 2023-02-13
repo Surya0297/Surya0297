@@ -1,5 +1,5 @@
 
-<p align ="center"><img align="center" width=80% src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="surya0297" /></p>
+<p align ="center"><img align="center" width=80% height=50% src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif" alt="surya0297" /></p>
 <h1 align="center">Hi 👋, I'm Surya Pratap Singh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Web developer from Gwalior</h3>
 
