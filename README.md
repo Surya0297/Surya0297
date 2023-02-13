@@ -1,3 +1,5 @@
+<img src="https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw2PcVG5mf3wwJ5LaF86fb9C&ust=1676392994885000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjmwtn4kv0CFQAAAAAdAAAAABAc"/>
+
 <h1 align="center">Hi 👋, I'm Surya Pratap Singh Chauhan</h1>
 <h3 align="center">A passionate Full Stack Web developer from Gwalior</h3>
 
