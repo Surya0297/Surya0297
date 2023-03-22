@@ -124,14 +124,9 @@
 <p align="center">
 	
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=surya0297&show_icons=true&locale=en" alt="surya0297" /></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya0297&" alt="surya0297" /></p>
-
-<a href="https://github.com/Surya0297/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=surya0297&show_icons=true&locale=en" height="200px"/></a> 
-   <br>                                                                         
-
-<img alt="most used languages" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Surya0297&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&hide_border=true&langs_count=20&hide=hack,swift,kotlin,objective-c"/> 
-
-</p>
                                                                                
  
 									    
