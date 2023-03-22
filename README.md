@@ -141,22 +141,12 @@
 
 </p>
                                                                                
- <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Surys's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Surya0297&theme=react-dark&hide_border=true" /></a>
-
-<div align="center" >
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Impact&size=30&pause=500&color=red&vCenter=true&width=180&height=70&lines=<KeepCoding>")](https://git.io/typing-svg)
- 
-</div>
 									    
-
- ## Look at this snake eating up my contributions! <img src= "https://c.tenor.com/BczFoyx41WoAAAAj/swallowed-the-mighty-ones.gif" width= "30" height= "30">  :
 
 
 
 <div align="center">
   
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Thank+You+for+Visiting+😇...!)
- 
+
 </div>
