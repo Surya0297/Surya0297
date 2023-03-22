@@ -17,7 +17,7 @@
 <img align="right" src="https://github.com/ankitwarbhe/ankitwarbhe/blob/master/developer.gif" alt="Coder GIF" width="400" height="300">
 
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+ **About me**
 
 -  🌱 I love to learn to code in different languages. 
 
@@ -39,7 +39,8 @@
 
 - 👉 <a href="https://surya0297.github.io\">**Click Here**</a> to view my projects 💻.
 
-
+<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
+<!--  -->
 
 
 ##  <h3 align="left">Connect with me:</h3> 
