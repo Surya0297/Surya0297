@@ -24,14 +24,12 @@
 - 🔄 Routine : **Eat - Sleep - Code - Repeat.**
 
 - 📫 How to reach me **chauhansurya302@gmail.com**
-<!--  -->
+
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
 - 👉 <a href="https://surya0297.github.io\">**Click Here**</a> to view my projects 💻.
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
-<!--  -->
 
 
 ##  <h3 align="left">Connect with me:</h3> 
@@ -124,7 +122,11 @@
 
 ## <img src="https://raw.githubusercontent.com/marcos-inja/marcos-inja/main/gifs/haha.gif" width="25px"> **Github stats**
 <p align="center">
-<a href="https://github.com/Surya0297/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Surya0297&&show_icons=true&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" height="200px"/></a> 
+	
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=surya0297&" alt="surya0297" /></p>
+
+<a href="https://github.com/Surya0297/github-readme-stats"><img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=surya0297&show_icons=true&locale=en" height="200px"/></a> 
    <br>                                                                         
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Surya0297&count_private=true&show_icons=true&custom_title=Github&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=10&hide_border=true" alt="shubh2-0" />
    <br>
