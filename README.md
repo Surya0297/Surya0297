@@ -39,8 +39,7 @@
 
 - 👉 <a href="https://surya0297.github.io\">**Click Here**</a> to view my projects 💻.
 
-<!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge) -->
-<!--  -->
+
 
 
 ##  <h3 align="left">Connect with me:</h3> 
