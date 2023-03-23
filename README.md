@@ -28,7 +28,7 @@
 
 - 💪🏼 Fav Quote: "Great Developers never stop learning".
 
-- 👉 <a href='https://surya0297.github.io'>**Click Here**</a> to view my projects 💻.
+- 👉 <a href=**https://surya0297.github.io**>**Click Here**</a> to view my projects 💻.
 
 
 
